@@ -27,7 +27,6 @@ async function queryDb(text, params = []) {
   }
 }
 
-// ---------- EXPRESS APP ----------
 const app = express();
 
 app.use(express.json());
