@@ -1,0 +1,20 @@
+<!-- logo-motorpulse-favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 24 24">
+  <!-- Red background circle -->
+  <circle cx="12" cy="12" r="11" fill="#ff3b30" />
+  <!-- White ring (your original circle) -->
+  <circle cx="12" cy="12" r="9"
+          fill="none"
+          stroke="#ffffff"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round" />
+  <!-- White motor pulse line (your original path) -->
+  <path d="M6 12h3l1.5-3 3 6 1.5-3h3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round" />
+</svg>
