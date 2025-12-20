@@ -1,4 +1,3 @@
-// src/hooks/use-events.ts
 import { useEffect, useState } from "react";
 import { fetchEvents, type TelemetryEvent } from "@/services/events";
 
