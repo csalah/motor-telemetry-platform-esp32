@@ -8,11 +8,11 @@
 
 enum DirMode : uint8_t;
 
-static const char* WIFI_SSID     = "YOUR-WIFI-NAME";
-static const char* WIFI_PASSWORD = "YOUR-WIFI-PASS";
+static const char* WIFI_SSID     = "WIFI-NAME";
+static const char* WIFI_PASSWORD = "WIFI-PASS";
 
 //MQTT CONFIG for HiveMQ Cloud
-static const char* MQTT_HOST     = "YOUR-HIVEMQ-CLOUD-CLUSTER-HOST";
+static const char* MQTT_HOST     = "HIVEMQ-CLOUD-CLUSTER-HOST";
 static const int   MQTT_PORT     = 8883;
 static const char* MQTT_USER     = "HIVEMQ-USER-CREDENTIALS";
 static const char* MQTT_PASSWORD = "HIVEMQ-USER-PASS";
